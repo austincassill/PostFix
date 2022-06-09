@@ -1,0 +1,12 @@
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\bin\Debug\net6.0\PostFix.deps.json
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\bin\Debug\net6.0\PostFix.dll
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\bin\Debug\net6.0\ref\PostFix.dll
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\bin\Debug\net6.0\PostFix.pdb
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\PostFix.csproj.AssemblyReference.cache
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\PostFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\PostFix.AssemblyInfoInputs.cache
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\PostFix.AssemblyInfo.cs
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\PostFix.csproj.CoreCompileInputs.cache
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\PostFix.dll
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\ref\PostFix.dll
+C:\Users\arc726\repos\PostFix\PostFix\PostFix\obj\Debug\net6.0\PostFix.pdb

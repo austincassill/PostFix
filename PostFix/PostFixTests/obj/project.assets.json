@@ -882,6 +882,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "PostFix/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PostFix.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostFix.dll": {}
+        }
       }
     }
   },
@@ -3811,6 +3821,11 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "PostFix/1.0.0": {
+      "type": "project",
+      "path": "../PostFix/PostFix.csproj",
+      "msbuildProject": "../PostFix/PostFix.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3818,6 +3833,7 @@
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
+      "PostFix >= 1.0.0",
       "coverlet.collector >= 3.1.0"
     ]
   },
@@ -3852,7 +3868,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\arc726\\repos\\PostFix\\PostFix\\PostFix\\PostFix.csproj": {
+              "projectPath": "C:\\Users\\arc726\\repos\\PostFix\\PostFix\\PostFix\\PostFix.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
