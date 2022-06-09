@@ -26,5 +26,12 @@ namespace PostFixTests
             var results = _postFixConverter.Evaluate("1 1 2 1 2 +");
             Assert.AreEqual(3, results);
         }
+
+        [Test]
+        public void More_Complex()
+        {
+            var results = _postFixConverter.Evaluate("2 3 1 * + 9 -");
+            Assert.AreEqual(-4, results);
+        }
     }
 }
